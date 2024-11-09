@@ -1,0 +1,107 @@
+@import url("https://fonts.googleapis.com/css2?family=Comfortaa&display=swap");
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+:root {
+  --second-color: #f64c72;
+  --main-color: #fff;
+  --background-color: #242582;
+}
+body {
+  background-color: var(--background-color);
+}
+.box {
+  padding: 200px 50px;
+}
+.box h1 {
+  color: var(--main-color);
+  font-size: 60px;
+  font-family: "Comfortaa", sans-serif;
+}
+.box h1 span {
+  color: var(--second-color);
+  text-decoration: underline;
+  text-underline-offset: 0.4em;
+}
+.password-box {
+  margin-top: 50px;
+  width: 500px;
+  height: 50px;
+  background-color: var(--main-color);
+  border-radius: 10px;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+.password-box input {
+  border: none;
+  outline: none;
+  border-radius: 10px;
+  width: 450px;
+  height: 50px;
+  padding: 20px;
+  font-size: 15px;
+}
+.password-box .icon {
+  border: none;
+  outline: none;
+  width: 45px;
+  height: 40px;
+  border-radius: 10px;
+  font-size: 18px;
+  background-color: var(--main-color);
+  color: var(--second-color);
+}
+.button {
+  border: none;
+  outline: none;
+  margin-top: 15px;
+  width: 300px;
+  height: 40px;
+  border-radius: 10px;
+  font-size: 16px;
+  background-color: var(--second-color);
+  color: var(--main-color);
+}
+
+@media (max-width: 670px) {
+  .box h1 {
+    font-size: 40px;
+  }
+  .password-box {
+    margin-top: 40px;
+    width: 400px;
+    height: 50px;
+  }
+  .button {
+    width: 200px;
+    height: 40px;
+  }
+}
+@media (max-width: 490px) {
+  .box {
+    padding: 200px 20px;
+  }
+  .box h1 {
+    font-size: 25px;
+  }
+  .password-box {
+    margin-top: 35px;
+    width: 300px;
+    height: 50px;
+  }
+  .password-box input {
+    width: 250px;
+    height: 50px;
+  }
+  .password-box .icon {
+    width: 40px;
+    height: 40px;
+  }
+  .button {
+    width: 150px;
+    height: 40px;
+  }
+}
