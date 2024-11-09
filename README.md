@@ -39,3 +39,8 @@ A simple password generator that creates a secure 12-character password. Built w
 1. Open the app.
 2. Click "Generate" to create a 12-character password.
 3. Click "Copy" to save the password to your clipboard.
+
+## Output
+![Screenshot 2024-11-09 182257](https://github.com/user-attachments/assets/49afe1a7-6672-45b2-92d9-42dcd4058876)
+
+[Views Website]()
