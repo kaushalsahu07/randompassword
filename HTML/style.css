@@ -3,6 +3,7 @@
   padding: 0;
   margin: 0;
   box-sizing: border-box;
+  list-style: none;
 }
 :root {
   --second-color: #f64c72;
@@ -65,7 +66,10 @@ body {
   background-color: var(--second-color);
   color: var(--main-color);
 }
-
+.letter-list{
+  margin-top: 20px;
+  color: var(--main-color);
+}
 @media (max-width: 670px) {
   .box h1 {
     font-size: 40px;
