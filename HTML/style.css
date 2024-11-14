@@ -66,7 +66,7 @@ body {
   background-color: var(--second-color);
   color: var(--main-color);
 }
-.letter-list{
+.letter-list {
   margin-top: 20px;
   color: var(--main-color);
 }
