@@ -44,3 +44,11 @@ A simple password generator that creates a secure 12-character password. Built w
 ![Screenshot 2024-11-09 182257](https://github.com/user-attachments/assets/49afe1a7-6672-45b2-92d9-42dcd4058876)
 
 [Views Website](https://kaushalsahu07.github.io/randompassword/HTML/index.html)
+
+## Contact
+For any inquiries, reach out at [kaushal.r.sahu@outlook.com].<br>
+GitHub: [@kaushalsahu07](https://github.com/kaushalsahu07).<br>
+Linkedin: [@kaushalsahu07](www.linkedin.com/in/kaushalsahu07).<br>
+Instagram: [@cd.kaushal](https://www.instagram.com/cd.kaushal?igsh=cTVram1ia3Vvamxz).<br>
+Portfolio: [Website Link ](https://kaushalsahu07.github.io/portfolio/).<br>
+X (Tweeter): [@kaushalsahu_07](https://x.com/kaushalsahu_07?t=7nk-jApWrJkgW6YwklJZWQ&s=09).<br>
